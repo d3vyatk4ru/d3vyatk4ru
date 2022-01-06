@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, guys! I am Devyatkin Daniil 👋
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **d3vyatk4ru/d3vyatk4ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
