@@ -1,10 +1,12 @@
-### Hello, guys! I am Devyatkin Daniil 👋
-
+<h2 align="center">Hello, there! I am Devyatkin Daniil 👋 </h2>
+I like ML, maths and programing. I’m currently learning blockchain technology ✨
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=d3vyatk4ru&show_icons=true&theme=dark" /> -->
 
 ### My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vyatk4ru&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![It's my used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vyatk4ru&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+
+- I’m currently learning blockchain technology ✨
 
 <!--
 **d3vyatk4ru/d3vyatk4ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
